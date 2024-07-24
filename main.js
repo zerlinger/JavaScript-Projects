@@ -1,6 +1,6 @@
-import { Hero } from "../hero.js";
-import { World } from '../world.js';
-import { Input } from "./input.js";
+import { Hero } from "hero.js";
+import { World } from 'world.js';
+import { Input } from "input.js";
 
 export const TILE_SIZE = 32;
 export const COLS = 15;
